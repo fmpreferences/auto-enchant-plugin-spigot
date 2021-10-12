@@ -1,0 +1,6 @@
+name: AutoEfficiency
+version: '${project.version}'
+main: io.fmpreferences.autoenchant.AutoEnchant
+api-version: 1.17
+authors: [ me ]
+description: adds auto efficiency on right click craft (can be configured)
